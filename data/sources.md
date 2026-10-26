@@ -37,13 +37,13 @@ from these series; the deposited scripts transcribe and archive them.
 
 Additional modelling and parameter references (incubation period, serial interval,
 generation interval, nosocomial reduction factor, transmission heterogeneity) are
-enumerated in the paper bibliography (`paper/main.tex`, `thebibliography`) and its
-Supplementary Material.
+enumerated in the manuscript bibliography (LaTeX `thebibliography` environment) and
+its Supplementary Material.
 
 ## Reproducibility note
 
 The deposition is completed **before submission**; the Zenodo archived-snapshot DOI
 is issued after acceptance and is inserted at that time (placeholder
 `10.5281/zenodo.XXXXXXX` in the current files). The repository URL and the Zenodo
-DOI are referenced in `paper/main.tex` (Code and data availability section) and in
-the PLOS submission files under `paper/submission/`.
+DOI are referenced in the manuscript's Code and data availability section and in
+the PLOS submission package (prepared separately from this code repository).
