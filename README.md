@@ -4,7 +4,8 @@ Computational artifacts supporting the manuscript:
 
 > Tang S. Transmission dynamics of the 2026 Bundibugyo ebolavirus disease
 > outbreak in the Democratic Republic of the Congo: a compartmental model
-> with an explicit observation layer. *PLOS Computational Biology* (submitted).
+> with an explicit observation layer. *PLOS Neglected Tropical Diseases*
+> (prepared for submission).
 
 **This repository contains only the model and data code.** The manuscript
 LaTeX source and the PLOS submission package are NOT included here; they are
