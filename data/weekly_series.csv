@@ -1,0 +1,34 @@
+﻿# Verified weekly series for the 2026 Bundibugyo ebolavirus outbreak in Ituri, DRC.
+# Source: UKHSA "Outbreaks under monitoring" reports wk21-wk41 at their DRC data dates,
+# with the 21 May 2026 declaration anchor.
+# Columns: week_ending (YYYY-MM-DD), t_days (days since 2026-05-21 = declaration date),
+#          cum_confirmed (cumulative confirmed cases), incr_confirmed (weekly increment),
+#          cum_deaths (cumulative deaths), incr_deaths (weekly death increment).
+# Weekly increments are differences of consecutive data dates (6-8 days apart).
+# NOTE: The 2026-07-27 increment (t=67: +887 confirmed, +488 deaths) contains a
+#       22 July 2026 retrospective reconciliation of 272 cases and 174 deaths; the
+#       three intervals 13 July-3 August are merged into one 21-day interval in the
+#       likelihood (see paper Section on data and the observation model).
+week_ending,t_days,cum_confirmed,incr_confirmed,cum_deaths,incr_deaths
+2026-05-21,0,83,,9,
+2026-05-26,5,121,38,17,8
+2026-06-02,12,363,242,62,45
+2026-06-08,18,598,235,115,53
+2026-06-15,25,837,239,196,81
+2026-06-22,32,1094,257,277,81
+2026-06-29,39,1333,239,399,122
+2026-07-06,46,1708,375,580,181
+2026-07-13,53,2011,303,754,174
+2026-07-20,60,2473,462,999,245
+2026-07-27,67,3360,887,1487,488
+2026-08-03,74,3874,514,1751,264
+2026-08-10,81,4449,575,2061,310
+2026-08-16,87,5021,572,2378,317
+2026-08-24,95,5656,635,2715,337
+2026-08-31,102,6186,530,3007,292
+2026-09-07,109,6757,571,3267,260
+2026-09-13,115,7258,501,3510,243
+2026-09-20,122,7773,515,3759,249
+2026-09-27,129,8116,343,3924,165
+2026-10-04,136,8603,487,4148,224
+2026-10-11,143,9066,463,4381,233

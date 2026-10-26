@@ -1,0 +1,7 @@
+.workbuddy/
+__pycache__/
+*.pyc
+*.npz
+*.log
+*.bak*
+*.pdf
